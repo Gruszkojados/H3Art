@@ -6,13 +6,13 @@
     "category": "Relic",
     "slot": "Peleryna",
     "effect": "Zapewnia stałe zaklęcie Latanie (Fly). Ignoruje ograniczenia terenu podczas podróży.",
-    "icon": "images/shoulders/angelwings.jpg",
+    "icon": "/images/shoulders/angelwings.jpg",
     "components": []
   },
   {
     "name_en": "Armor of Wonder",
     "name_pl": "Zbroja Cudów",
-    "icon": "images/body/armorwonder.jpg",
+    "icon": "/images/body/armorwonder.jpg",
     "components": [],
     "id": "armor_of_wonder",
     "category": "Minor",
@@ -22,7 +22,7 @@
   {
     "name_en": "Breastplate of Brimstone",
     "name_pl": "Napierśnik Siarki",
-    "icon": "images/body/brimstonebreastplate.jpg",
+    "icon": "/images/body/brimstonebreastplate.jpg",
     "components": [],
     "id": "breastplate_of_brimstone",
     "category": "Minor",
@@ -32,7 +32,7 @@
   {
     "name_en": "Breastplate of Petrified Wood",
     "name_pl": "Napierśnik Skamieniałego Drewna",
-    "icon": "images/body/breastplatewood.jpg",
+    "icon": "/images/body/breastplatewood.jpg",
     "components": [],
     "id": "breastplate_of_petrified_wood",
     "category": "Minor",
@@ -42,7 +42,7 @@
   {
     "name_en": "Cyclops Tunic",
     "name_pl": "Tunika Cyklopa",
-    "icon": "images/body/cyclopstunic.jpg",
+    "icon": "/images/body/cyclopstunic.jpg",
     "components": [],
     "id": "cyclops_tunic",
     "category": "Minor",
@@ -52,7 +52,7 @@
   {
     "name_en": "Dragon Scale Armor",
     "name_pl": "Smocza Łuskowa Zbroja",
-    "icon": "images/body/dragonscalearmor.jpg",
+    "icon": "/images/body/dragonscalearmor.jpg",
     "components": [],
     "id": "dragon_scale_armor",
     "category": "Minor",
@@ -62,7 +62,7 @@
   {
     "name_en": "Plate of Dying Light",
     "name_pl": "Płyta Gasnącego Światła",
-    "icon": "images/body/plateofdyinglight.png",
+    "icon": "/images/body/plateofdyinglight.png",
     "components": [],
     "id": "plate_of_dying_light",
     "category": "Minor",
@@ -72,7 +72,7 @@
   {
     "name_en": "Rib Cage",
     "name_pl": "Klatka Żebrowa",
-    "icon": "images/body/ribcage.jpg",
+    "icon": "/images/body/ribcage.jpg",
     "components": [],
     "id": "rib_cage",
     "category": "Minor",
@@ -82,7 +82,7 @@
   {
     "name_en": "Royal Armor of Nix",
     "name_pl": "Królewska Zbroja Nixów",
-    "icon": "images/body/royalarmorofnix.png",
+    "icon": "/images/body/royalarmorofnix.png",
     "components": [],
     "id": "royal_armor_of_nix",
     "category": "Minor",
@@ -92,7 +92,7 @@
   {
     "name_en": "Scale of the Greater Basilisk",
     "name_pl": "Łuska Wielkiego Bazyliszka",
-    "icon": "images/body/scalesofbasilisk.jpg",
+    "icon": "/images/body/scalesofbasilisk.jpg",
     "components": [],
     "id": "scale_of_the_greater_basilisk",
     "category": "Minor",
@@ -102,7 +102,7 @@
   {
     "name_en": "Titan's Cuirass",
     "name_pl": "Pancerz Tytana",
-    "icon": "images/body/titanscurrias.jpg",
+    "icon": "/images/body/titanscurrias.jpg",
     "components": [],
     "id": "titans_cuirass",
     "category": "Minor",
@@ -112,7 +112,7 @@
   {
     "name_en": "Boots of the Dead Man",
     "name_pl": "Buty Truposza",
-    "icon": "images/boots/bootsdead.jpg",
+    "icon": "/images/boots/bootsdead.jpg",
     "components": [],
     "id": "boots_of_the_dead_man",
     "category": "Minor",
@@ -122,7 +122,7 @@
   {
     "name_en": "Boots of Levitation",
     "name_pl": "Buty Lewitacji",
-    "icon": "images/boots/bootsoflevitation.jpg",
+    "icon": "/images/boots/bootsoflevitation.jpg",
     "components": [],
     "id": "boots_of_levitation",
     "category": "Minor",
@@ -132,7 +132,7 @@
   {
     "name_en": "Boots of Polarity",
     "name_pl": "Buty Polaryzacji",
-    "icon": "images/boots/bootsofpolarity.jpg",
+    "icon": "/images/boots/bootsofpolarity.jpg",
     "components": [],
     "id": "boots_of_polarity",
     "category": "Minor",
@@ -142,7 +142,7 @@
   {
     "name_en": "Boots of Speed",
     "name_pl": "Buty Prędkości",
-    "icon": "images/boots/bootsofspeed.jpg",
+    "icon": "/images/boots/bootsofspeed.jpg",
     "components": [],
     "id": "boots_of_speed",
     "category": "Minor",
@@ -152,7 +152,7 @@
   {
     "name_en": "Dragonbone Greaves",
     "name_pl": "Nagolenniki ze Smoczych Kości",
-    "icon": "images/boots/dragonbonegreaves.jpg",
+    "icon": "/images/boots/dragonbonegreaves.jpg",
     "components": [],
     "id": "dragonbone_greaves",
     "category": "Minor",
@@ -162,7 +162,7 @@
   {
     "name_en": "Saint's Sandals",
     "name_pl": "Sandały Świętego",
-    "icon": "images/boots/saintsandals.jpg",
+    "icon": "/images/boots/saintsandals.jpg",
     "components": [],
     "id": "saints_sandals",
     "category": "Minor",
@@ -172,7 +172,7 @@
   {
     "name_en": "Wayfarer's Boots",
     "name_pl": "Buty Wędrowca",
-    "icon": "images/boots/wayfarersboots.png",
+    "icon": "/images/boots/wayfarersboots.png",
     "components": [],
     "id": "wayfarers_boots",
     "category": "Minor",
@@ -182,7 +182,7 @@
   {
     "name_en": "Diplomat's Ring",
     "name_pl": "Pierścień Dyplomaty",
-    "icon": "images/hands/diplomatsring.jpg",
+    "icon": "/images/hands/diplomatsring.jpg",
     "components": [],
     "id": "diplomats_ring",
     "category": "Minor",
@@ -192,7 +192,7 @@
   {
     "name_en": "Equestrian's Gloves",
     "name_pl": "Rękawice Jeźdźca",
-    "icon": "images/hands/equesteriansgloves.jpg",
+    "icon": "/images/hands/equesteriansgloves.jpg",
     "components": [],
     "id": "equestrians_gloves",
     "category": "Minor",
@@ -202,7 +202,7 @@
   {
     "name_en": "Quiet Eye of the Dragon",
     "name_pl": "Ciche Oko Smoka",
-    "icon": "images/hands/quietdragoneye.jpg",
+    "icon": "/images/hands/quietdragoneye.jpg",
     "components": [],
     "id": "quiet_eye_of_the_dragon",
     "category": "Minor",
@@ -212,7 +212,7 @@
   {
     "name_en": "Ring of Conjuring",
     "name_pl": "Pierścień Przywołania",
-    "icon": "images/hands/ringofconjuring.jpg",
+    "icon": "/images/hands/ringofconjuring.jpg",
     "components": [],
     "id": "ring_of_conjuring",
     "category": "Minor",
@@ -222,7 +222,7 @@
   {
     "name_en": "Ring of Gems",
     "name_pl": "Pierścień Klejnotów",
-    "icon": "images/hands/ringofgems.jpg",
+    "icon": "/images/hands/ringofgems.jpg",
     "components": [],
     "id": "ring_of_gems",
     "category": "Minor",
@@ -232,7 +232,7 @@
   {
     "name_en": "Ring of Vitality",
     "name_pl": "Pierścień Witalności",
-    "icon": "images/hands/ringofhealth.jpg",
+    "icon": "/images/hands/ringofhealth.jpg",
     "components": [],
     "id": "ring_of_vitality",
     "category": "Minor",
@@ -242,7 +242,7 @@
   {
     "name_en": "Ring of Life",
     "name_pl": "Pierścień Życia",
-    "icon": "images/hands/ringofhealth2.jpg",
+    "icon": "/images/hands/ringofhealth2.jpg",
     "components": [],
     "id": "ring_of_life",
     "category": "Minor",
@@ -252,7 +252,7 @@
   {
     "name_en": "Ring of Oblivion",
     "name_pl": "Pierścień Zapomnienia",
-    "icon": "images/hands/ringofoblivion.png",
+    "icon": "/images/hands/ringofoblivion.png",
     "components": [],
     "id": "ring_of_oblivion",
     "category": "Minor",
@@ -262,7 +262,7 @@
   {
     "name_en": "Ring of Suppression",
     "name_pl": "Pierścień Tłumienia",
-    "icon": "images/hands/ringofsuppression.png",
+    "icon": "/images/hands/ringofsuppression.png",
     "components": [],
     "id": "ring_of_suppression",
     "category": "Minor",
@@ -272,7 +272,7 @@
   {
     "name_en": "Ring of the Wayfarer",
     "name_pl": "Pierścień Wędrowca",
-    "icon": "images/hands/ringofwayfarer.jpg",
+    "icon": "/images/hands/ringofwayfarer.jpg",
     "components": [],
     "id": "ring_of_the_wayfarer",
     "category": "Minor",
@@ -282,7 +282,7 @@
   {
     "name_en": "Seal of Sunset",
     "name_pl": "Pieczęć Zachodu Słońca",
-    "icon": "images/hands/sealofsunset.png",
+    "icon": "/images/hands/sealofsunset.png",
     "components": [],
     "id": "seal_of_sunset",
     "category": "Minor",
@@ -292,7 +292,7 @@
   {
     "name_en": "Still Eye of the Dragon",
     "name_pl": "Nieruchome Oko Smoka",
-    "icon": "images/hands/stilldragoneye.jpg",
+    "icon": "/images/hands/stilldragoneye.jpg",
     "components": [],
     "id": "still_eye_of_the_dragon",
     "category": "Minor",
@@ -302,7 +302,7 @@
   {
     "name_en": "Sulfur Ring",
     "name_pl": "Pierścień Siarki",
-    "icon": "images/hands/sulfrring.jpg",
+    "icon": "/images/hands/sulfrring.jpg",
     "components": [],
     "id": "sulfur_ring",
     "category": "Minor",
@@ -312,7 +312,7 @@
   {
     "name_en": "Crown of Magi",
     "name_pl": "Korona Magów",
-    "icon": "images/head/crownofmagi.jpg",
+    "icon": "/images/head/crownofmagi.jpg",
     "components": [],
     "id": "crown_of_magi",
     "category": "Minor",
@@ -322,7 +322,7 @@
   {
     "name_en": "Crown of the Five Seas",
     "name_pl": "Korona Pięciu Mórz",
-    "icon": "images/head/crownofthefiveseas.png",
+    "icon": "/images/head/crownofthefiveseas.png",
     "components": [],
     "id": "crown_of_the_five_seas",
     "category": "Minor",
@@ -332,7 +332,7 @@
   {
     "name_en": "Dragon Crown",
     "name_pl": "Smocza Korona",
-    "icon": "images/head/dragoncrown.jpg",
+    "icon": "/images/head/dragoncrown.jpg",
     "components": [],
     "id": "dragon_crown",
     "category": "Minor",
@@ -342,7 +342,7 @@
   {
     "name_en": "Hellstorm Helmet",
     "name_pl": "Hełm Burzy Piekieł",
-    "icon": "images/head/hellstormhelmet.jpg",
+    "icon": "/images/head/hellstormhelmet.jpg",
     "components": [],
     "id": "hellstorm_helmet",
     "category": "Minor",
@@ -352,7 +352,7 @@
   {
     "name_en": "Helm of Chaos",
     "name_pl": "Hełm Chaosu",
-    "icon": "images/head/helmofchaos.jpg",
+    "icon": "/images/head/helmofchaos.jpg",
     "components": [],
     "id": "helm_of_chaos",
     "category": "Minor",
@@ -362,7 +362,7 @@
   {
     "name_en": "Helm of Enlightenment",
     "name_pl": "Hełm Oświecenia",
-    "icon": "images/head/helmofenlightenment.jpg",
+    "icon": "/images/head/helmofenlightenment.jpg",
     "components": [],
     "id": "helm_of_enlightenment",
     "category": "Minor",
@@ -372,7 +372,7 @@
   {
     "name_en": "Unicorn Helm",
     "name_pl": "Hełm Jednorożca",
-    "icon": "images/head/helmunicorn.jpg",
+    "icon": "/images/head/helmunicorn.jpg",
     "components": [],
     "id": "unicorn_helm",
     "category": "Minor",
@@ -382,7 +382,7 @@
   {
     "name_en": "Sea Captain's Hat",
     "name_pl": "Kapelusz Kapitana Morskiego",
-    "icon": "images/head/seacaptainshat.jpg",
+    "icon": "/images/head/seacaptainshat.jpg",
     "components": [],
     "id": "sea_captains_hat",
     "category": "Minor",
@@ -392,7 +392,7 @@
   {
     "name_en": "Skull Helmet",
     "name_pl": "Czaszkowy Hełm",
-    "icon": "images/head/skullhelmet.jpg",
+    "icon": "/images/head/skullhelmet.jpg",
     "components": [],
     "id": "skull_helmet",
     "category": "Minor",
@@ -402,7 +402,7 @@
   {
     "name_en": "Spellbinder's Hat",
     "name_pl": "Kapelusz Zaklinacza",
-    "icon": "images/head/spellbindershat.jpg",
+    "icon": "/images/head/spellbindershat.jpg",
     "components": [],
     "id": "spellbinders_hat",
     "category": "Minor",
@@ -412,7 +412,7 @@
   {
     "name_en": "Thunder Helmet",
     "name_pl": "Hełm Gromu",
-    "icon": "images/head/thunderhelmet.jpg",
+    "icon": "/images/head/thunderhelmet.jpg",
     "components": [],
     "id": "thunder_helmet",
     "category": "Zestaw",
@@ -422,7 +422,7 @@
   {
     "name_en": "Dragon Scale Shield",
     "name_pl": "Smocza Łuskowa Tarcza",
-    "icon": "images/leftHand/dragonscaleshield.jpg",
+    "icon": "/images/leftHand/dragonscaleshield.jpg",
     "components": [],
     "id": "dragon_scale_shield",
     "category": "Minor",
@@ -432,7 +432,7 @@
   {
     "name_en": "Dwarven Shield",
     "name_pl": "Krasnoludzka Tarcza",
-    "icon": "images/leftHand/dwarvenshield.jpg",
+    "icon": "/images/leftHand/dwarvenshield.jpg",
     "components": [],
     "id": "dwarven_shield",
     "category": "Minor",
@@ -442,7 +442,7 @@
   {
     "name_en": "Gnoll's Buckler",
     "name_pl": "Puklerz Gnolla",
-    "icon": "images/leftHand/gnollsbuckler.jpg",
+    "icon": "/images/leftHand/gnollsbuckler.jpg",
     "components": [],
     "id": "gnolls_buckler",
     "category": "Minor",
@@ -452,7 +452,7 @@
   {
     "name_en": "Ogre's Targe",
     "name_pl": "Tarcza Ogra",
-    "icon": "images/leftHand/ogretarge.jpg",
+    "icon": "/images/leftHand/ogretarge.jpg",
     "components": [],
     "id": "ogres_targe",
     "category": "Minor",
@@ -462,7 +462,7 @@
   {
     "name_en": "Sentinel's Shield",
     "name_pl": "Tarcza Strażnika",
-    "icon": "images/leftHand/sentinelsshield.jpg",
+    "icon": "/images/leftHand/sentinelsshield.jpg",
     "components": [],
     "id": "sentinels_shield",
     "category": "Minor",
@@ -472,7 +472,7 @@
   {
     "name_en": "Shield of the Damned",
     "name_pl": "Tarcza Potępionych",
-    "icon": "images/leftHand/shielddamned.jpg",
+    "icon": "/images/leftHand/shielddamned.jpg",
     "components": [],
     "id": "shield_of_the_damned",
     "category": "Zestaw",
@@ -482,7 +482,7 @@
   {
     "name_en": "Shield of Courage",
     "name_pl": "Tarcza Odwagi",
-    "icon": "images/leftHand/shieldofcourage.jpg",
+    "icon": "/images/leftHand/shieldofcourage.jpg",
     "components": [],
     "id": "shield_of_courage",
     "category": "Minor",
@@ -492,7 +492,7 @@
   {
     "name_en": "Shield of Naval Glory",
     "name_pl": "Tarcza Morskiej Chwały",
-    "icon": "images/leftHand/shieldofnavalglory.png",
+    "icon": "/images/leftHand/shieldofnavalglory.png",
     "components": [],
     "id": "shield_of_naval_glory",
     "category": "Minor",
@@ -502,7 +502,7 @@
   {
     "name_en": "Shield of Yawning Dead",
     "name_pl": "Tarcza Ziewającej Śmierci",
-    "icon": "images/leftHand/shieldyawningdeath.jpg",
+    "icon": "/images/leftHand/shieldyawningdeath.jpg",
     "components": [],
     "id": "shield_of_yawning_dead",
     "category": "Minor",
@@ -512,7 +512,7 @@
   {
     "name_en": "Celestial Necklace of Bliss",
     "name_pl": "Niebiański Naszyjnik Błogości",
-    "icon": "images/neck/celestialnecklace.jpg",
+    "icon": "/images/neck/celestialnecklace.jpg",
     "components": [],
     "id": "celestial_necklace_of_bliss",
     "category": "Minor",
@@ -522,7 +522,7 @@
   {
     "name_en": "Charm of Eclipse",
     "name_pl": "Amulet Zaćmienia",
-    "icon": "images/neck/charmofeclipse.png",
+    "icon": "/images/neck/charmofeclipse.png",
     "components": [],
     "id": "charm_of_eclipse",
     "category": "Minor",
@@ -532,7 +532,7 @@
   {
     "name_en": "Collar of Conjuring",
     "name_pl": "Kołnierz Przywołania",
-    "icon": "images/neck/collarofconjuring.jpg",
+    "icon": "/images/neck/collarofconjuring.jpg",
     "components": [],
     "id": "collar_of_conjuring",
     "category": "Minor",
@@ -542,7 +542,7 @@
   {
     "name_en": "Dragon Teeth Necklace",
     "name_pl": "Naszyjnik ze Smoczych Zębów",
-    "icon": "images/neck/dragonteeth.jpg",
+    "icon": "/images/neck/dragonteeth.jpg",
     "components": [],
     "id": "dragon_teeth_necklace",
     "category": "Minor",
@@ -552,7 +552,7 @@
   {
     "name_en": "Garniture of Interference",
     "name_pl": "Ozdoba Zakłóceń",
-    "icon": "images/neck/garnitureinterference.jpg",
+    "icon": "/images/neck/garnitureinterference.jpg",
     "components": [],
     "id": "garniture_of_interference",
     "category": "Minor",
@@ -562,7 +562,7 @@
   {
     "name_en": "Necklace of Ocean Guidance",
     "name_pl": "Naszyjnik Morskiego Przewodnictwa",
-    "icon": "images/neck/necklaceocean.jpg",
+    "icon": "/images/neck/necklaceocean.jpg",
     "components": [],
     "id": "necklace_of_ocean_guidance",
     "category": "Minor",
@@ -572,7 +572,7 @@
   {
     "name_en": "Necklace of Swiftness",
     "name_pl": "Naszyjnik Szybkości",
-    "icon": "images/neck/necklaceofswiftness.jpg",
+    "icon": "/images/neck/necklaceofswiftness.jpg",
     "components": [],
     "id": "necklace_of_swiftness",
     "category": "Minor",
@@ -582,7 +582,7 @@
   {
     "name_en": "Pendant of Courage",
     "name_pl": "Wisiorek Odwagi",
-    "icon": "images/neck/pendantofcourage.jpg",
+    "icon": "/images/neck/pendantofcourage.jpg",
     "components": [],
     "id": "pendant_of_courage",
     "category": "Minor",
@@ -592,7 +592,7 @@
   {
     "name_en": "Pendant of Death",
     "name_pl": "Wisiorek Śmierci",
-    "icon": "images/neck/pendantofdeath.jpg",
+    "icon": "/images/neck/pendantofdeath.jpg",
     "components": [],
     "id": "pendant_of_death",
     "category": "Minor",
@@ -602,7 +602,7 @@
   {
     "name_en": "Pendant of Dispassion",
     "name_pl": "Wisiorek Opanowania",
-    "icon": "images/neck/pendantofdispassion.jpg",
+    "icon": "/images/neck/pendantofdispassion.jpg",
     "components": [],
     "id": "pendant_of_dispassion",
     "category": "Minor",
@@ -612,7 +612,7 @@
   {
     "name_en": "Pendant of Downfall",
     "name_pl": "Wisiorek Upadku",
-    "icon": "images/neck/pendantofdownfall.png",
+    "icon": "/images/neck/pendantofdownfall.png",
     "components": [],
     "id": "pendant_of_downfall",
     "category": "Minor",
@@ -622,7 +622,7 @@
   {
     "name_en": "Pendant of Free Will",
     "name_pl": "Wisiorek Wolnej Woli",
-    "icon": "images/neck/pendantoffreewill.jpg",
+    "icon": "/images/neck/pendantoffreewill.jpg",
     "components": [],
     "id": "pendant_of_free_will",
     "category": "Minor",
@@ -632,7 +632,7 @@
   {
     "name_en": "Pendant of Holiness",
     "name_pl": "Wisiorek Świętości",
-    "icon": "images/neck/pendantofholiness.jpg",
+    "icon": "/images/neck/pendantofholiness.jpg",
     "components": [],
     "id": "pendant_of_holiness",
     "category": "Minor",
@@ -642,7 +642,7 @@
   {
     "name_en": "Pendant of Life",
     "name_pl": "Wisiorek Życia",
-    "icon": "images/neck/pendantoflife.jpg",
+    "icon": "/images/neck/pendantoflife.jpg",
     "components": [],
     "id": "pendant_of_life",
     "category": "Minor",
@@ -652,7 +652,7 @@
   {
     "name_en": "Pendant of Negativity",
     "name_pl": "Wisiorek Negatywności",
-    "icon": "images/neck/pendantofnegativity.jpg",
+    "icon": "/images/neck/pendantofnegativity.jpg",
     "components": [],
     "id": "pendant_of_negativity",
     "category": "Minor",
@@ -662,7 +662,7 @@
   {
     "name_en": "Pendant of Second Sight",
     "name_pl": "Wisiorek Drugiego Spojrzenia",
-    "icon": "images/neck/pendantofsecondsight.jpg",
+    "icon": "/images/neck/pendantofsecondsight.jpg",
     "components": [],
     "id": "pendant_of_second_sight",
     "category": "Minor",
@@ -672,7 +672,7 @@
   {
     "name_en": "Pendant of Total Recall",
     "name_pl": "Wisiorek Doskonałej Pamięci",
-    "icon": "images/neck/pendantoftotalrecall.jpg",
+    "icon": "/images/neck/pendantoftotalrecall.jpg",
     "components": [],
     "id": "pendant_of_total_recall",
     "category": "Minor",
@@ -682,7 +682,7 @@
   {
     "name_en": "Statesman's Medal",
     "name_pl": "Medal Męża Stanu",
-    "icon": "images/neck/statesmenmedal.jpg",
+    "icon": "/images/neck/statesmenmedal.jpg",
     "components": [],
     "id": "statesmans_medal",
     "category": "Minor",
@@ -692,7 +692,7 @@
   {
     "name_en": "Undertaker's Amulet",
     "name_pl": "Amulet Grabarza",
-    "icon": "images/neck/undertakeramulet.jpg",
+    "icon": "/images/neck/undertakeramulet.jpg",
     "components": [],
     "id": "undertakers_amulet",
     "category": "Minor",
@@ -702,7 +702,7 @@
   {
     "name_en": "Armageddon's Blade",
     "name_pl": "Ostrze Armagedonu",
-    "icon": "images/rightHand/armageddonsblade.jpg",
+    "icon": "/images/rightHand/armageddonsblade.jpg",
     "components": [],
     "id": "armageddons_blade",
     "category": "Minor",
@@ -712,7 +712,7 @@
   {
     "name_en": "Blackshard of the Dead Knight",
     "name_pl": "Czarny Odłamek Martwego Rycerza",
-    "icon": "images/rightHand/blackshard.jpg",
+    "icon": "/images/rightHand/blackshard.jpg",
     "components": [],
     "id": "blackshard_of_the_dead_knight",
     "category": "Minor",
@@ -722,7 +722,7 @@
   {
     "name_en": "Centaur's Axe",
     "name_pl": "Topór Centaura",
-    "icon": "images/rightHand/centaursaxe.jpg",
+    "icon": "/images/rightHand/centaursaxe.jpg",
     "components": [],
     "id": "centaurs_axe",
     "category": "Minor",
@@ -732,7 +732,7 @@
   {
     "name_en": "Dragon Flame Tongue",
     "name_pl": "Smoczy Ognisty Język",
-    "icon": "images/rightHand/dragonflametongue.jpg",
+    "icon": "/images/rightHand/dragonflametongue.jpg",
     "components": [],
     "id": "dragon_flame_tongue",
     "category": "Minor",
@@ -742,7 +742,7 @@
   {
     "name_en": "Gnoll's Flail",
     "name_pl": "Cep Gnolla",
-    "icon": "images/rightHand/gnollsflail.jpg",
+    "icon": "/images/rightHand/gnollsflail.jpg",
     "components": [],
     "id": "gnolls_flail",
     "category": "Minor",
@@ -752,7 +752,7 @@
   {
     "name_en": "Ogre's Club",
     "name_pl": "Maczuga Ogra",
-    "icon": "images/rightHand/ogresclub.jpg",
+    "icon": "/images/rightHand/ogresclub.jpg",
     "components": [],
     "id": "ogres_club",
     "category": "Minor",
@@ -762,7 +762,7 @@
   {
     "name_en": "Sword of Hellfire",
     "name_pl": "Miecz Piekielnego Ognia",
-    "icon": "images/rightHand/swordofhellfire.jpg",
+    "icon": "/images/rightHand/swordofhellfire.jpg",
     "components": [],
     "id": "sword_of_hellfire",
     "category": "Minor",
@@ -772,7 +772,7 @@
   {
     "name_en": "Sword of Judgement",
     "name_pl": "Miecz Osądu",
-    "icon": "images/rightHand/swordofjudgement.jpg",
+    "icon": "/images/rightHand/swordofjudgement.jpg",
     "components": [],
     "id": "sword_of_judgement",
     "category": "Minor",
@@ -782,7 +782,7 @@
   {
     "name_en": "Titan's Gladius",
     "name_pl": "Gladius Tytana",
-    "icon": "images/rightHand/titansgladius.jpg",
+    "icon": "/images/rightHand/titansgladius.jpg",
     "components": [],
     "id": "titans_gladius",
     "category": "Minor",
@@ -792,7 +792,7 @@
   {
     "name_en": "Trident of Dominion",
     "name_pl": "Trójząb Władzy",
-    "icon": "images/rightHand/tridentofdominion.png",
+    "icon": "/images/rightHand/tridentofdominion.png",
     "components": [],
     "id": "trident_of_dominion",
     "category": "Minor",
@@ -802,7 +802,7 @@
   {
     "name_en": "Admiral's Hat",
     "name_pl": "Kapelusz Admirała",
-    "icon": "images/sets/admiralshat.jpg",
+    "icon": "/images/sets/admiralshat.jpg",
     "components": ["sea_captains_hat", "necklace_of_ocean_guidance"],
     "id": "admirals_hat",
     "category": "Zestaw",
@@ -812,7 +812,7 @@
   {
     "name_en": "Angelic Alliance",
     "name_pl": "Anielskie Przymierze",
-    "icon": "images/sets/angelicalliance.jpg",
+    "icon": "/images/sets/angelicalliance.jpg",
     "components": ["helm_of_enlightenment", "sword_of_judgement", "celestial_necklace_of_bliss", "lions_shield_of_courage", "sandals_of_the_saint", "armor_of_wonder"],
     "id": "angelic_alliance",
     "category": "Zestaw",
@@ -822,7 +822,7 @@
   {
     "name_en": "Armor of the Damned",
     "name_pl": "Zbroja Potępionych",
-    "icon": "images/sets/armorofthedamned.jpg",
+    "icon": "/images/sets/armorofthedamned.jpg",
     "components": ["skull_helmet", "rib_cage", "shield_of_the_damned", "blackshard_of_the_dead_knight"],
     "id": "armor_of_the_damned",
     "category": "Zestaw",
@@ -832,7 +832,7 @@
   {
     "name_en": "Bow of the Sharpshooter",
     "name_pl": "Łuk Wyborowego Strzelca",
-    "icon": "images/sets/bowofsharpshooter.jpg",
+    "icon": "/images/sets/bowofsharpshooter.jpg",
     "components": ["elven_bow", "bowstring_of_the_unicorns_mane", "angel_feather_arrows"],
     "id": "bow_of_the_sharpshooter",
     "category": "Zestaw",
@@ -842,7 +842,7 @@
   {
     "name_en": "Cloak of the Undead King",
     "name_pl": "Płaszcz Króla Nieumarłych",
-    "icon": "images/sets/cloakofthedead.jpg",
+    "icon": "/images/sets/cloakofthedead.jpg",
     "components": ["amulet_of_the_undertaker", "vampires_cowl", "dead_mans_boots"],
     "id": "cloak_of_the_undead_king",
     "category": "Zestaw",
@@ -852,7 +852,7 @@
   {
     "name_en": "Cornucopia",
     "name_pl": "Róg Obfitości",
-    "icon": "images/sets/cornucopia.jpg",
+    "icon": "/images/sets/cornucopia.jpg",
     "components": ["endless_sack_of_gold", "endless_bag_of_gold", "endless_purse_of_gold", "inexhaustible_cart_of_lumber", "inexhaustible_cart_of_ore"],
     "id": "cornucopia",
     "category": "Zestaw",
@@ -862,7 +862,7 @@
   {
     "name_en": "Diplomat's Cloak",
     "name_pl": "Płaszcz Dyplomaty",
-    "icon": "images/sets/diplomatscloak.png",
+    "icon": "/images/sets/diplomatscloak.png",
     "components": [],
     "id": "diplomats_cloak",
     "category": "Minor",
@@ -872,7 +872,7 @@
   {
     "name_en": "Elixir of Life",
     "name_pl": "Eliksir Życia",
-    "icon": "images/sets/elixiroflife.jpg",
+    "icon": "/images/sets/elixiroflife.jpg",
     "components": ["ring_of_life", "ring_of_vitality", "vial_of_lifeblood"],
     "id": "elixir_of_life",
     "category": "Minor",
@@ -882,7 +882,7 @@
   {
     "name_en": "Golden Goose",
     "name_pl": "Złota Gęś",
-    "icon": "images/sets/goldengoose.png",
+    "icon": "/images/sets/goldengoose.png",
     "components": [],
     "id": "golden_goose",
     "category": "Minor",
@@ -892,7 +892,7 @@
   {
     "name_en": "Ironfist of the Ogre",
     "name_pl": "Żelazna Pięść Ogra",
-    "icon": "images/sets/ironfistoftheogre.png",
+    "icon": "/images/sets/ironfistoftheogre.png",
     "components": ["ogres_club", "targe_of_the_rampaging_ogre", "crown_of_the_supreme_magi", "tunic_of_the_cyclops_king"],
     "id": "ironfist_of_the_ogre",
     "category": "Minor",
@@ -902,7 +902,7 @@
   {
     "name_en": "Pendant of Reflection",
     "name_pl": "Medalion Odbicia",
-    "icon": "images/sets/pendantofreflection.png",
+    "icon": "/images/sets/pendantofreflection.png",
     "components": [],
     "id": "pendant_of_reflection",
     "category": "Minor",
@@ -912,7 +912,7 @@
   {
     "name_en": "Power of the Dragon Father",
     "name_pl": "Moc Smoczego Ojca",
-    "icon": "images/sets/powerofdragonfather.jpg",
+    "icon": "/images/sets/powerofdragonfather.jpg",
     "components": ["dragonbone_greaves", "dragon_wing_tabard", "dragon_scale_shield", "dragon_scale_armor", "dragonbone_necklace", "dragon_talon_crown", "red_dragon_flame_tongue", "still_eye_of_the_dragon", "quiet_eye_of_the_dragon"],
     "id": "power_of_the_dragon_father",
     "category": "Zestaw",
@@ -922,7 +922,7 @@
   {
     "name_en": "Ring of the Magi",
     "name_pl": "Pierścień Maga",
-    "icon": "images/sets/ringofmagi.jpg",
+    "icon": "/images/sets/ringofmagi.jpg",
     "components": ["charm_of_mana", "talisman_of_mana", "mystic_orb_of_mana"],
     "id": "ring_of_the_magi",
     "category": "Minor",
@@ -932,7 +932,7 @@
   {
     "name_en": "Statue of Legion",
     "name_pl": "Posąg Legionów",
-    "icon": "images/sets/statueoflegion.jpg",
+    "icon": "/images/sets/statueoflegion.jpg",
     "components": ["legion_head", "legion_torso", "legion_arms", "legion_legs", "legion_feet"],
     "id": "statue_of_legion",
     "category": "Minor",
@@ -942,7 +942,7 @@
   {
     "name_en": "Titan's Thunder",
     "name_pl": "Grom Tytana",
-    "icon": "images/sets/titansthunder.jpg",
+    "icon": "/images/sets/titansthunder.jpg",
     "components": ["thunder_helmet", "titans_cuirass", "titans_gladius", "sentinels_shield"],
     "id": "titans_thunder",
     "category": "Zestaw",
@@ -952,7 +952,7 @@
   {
     "name_en": "Wizard's Well",
     "name_pl": "Studnia Maga",
-    "icon": "images/sets/wizardswell.jpg",
+    "icon": "/images/sets/wizardswell.jpg",
     "components": ["orb_of_mana", "ring_of_the_magi"],
     "id": "wizards_well",
     "category": "Zestaw",
@@ -962,7 +962,7 @@
   {
     "name_en": "Ambassador's Sash",
     "name_pl": "Szarfa Ambasadora",
-    "icon": "images/shoulders/ambasadorssash.jpg",
+    "icon": "/images/shoulders/ambasadorssash.jpg",
     "components": [],
     "id": "ambassadors_sash",
     "category": "Minor",
@@ -972,7 +972,7 @@
   {
     "name_en": "Cape of Conjuring",
     "name_pl": "Płaszcz Przywoływania",
-    "icon": "images/shoulders/capeofconjuring.jpg",
+    "icon": "/images/shoulders/capeofconjuring.jpg",
     "components": [],
     "id": "cape_of_conjuring",
     "category": "Minor",
@@ -982,7 +982,7 @@
   {
     "name_en": "Cape of Silence",
     "name_pl": "Płaszcz Ciszy",
-    "icon": "images/shoulders/capeofsilence.png",
+    "icon": "/images/shoulders/capeofsilence.png",
     "components": [],
     "id": "cape_of_silence",
     "category": "Minor",
@@ -992,7 +992,7 @@
   {
     "name_en": "Cape of Velocity",
     "name_pl": "Płaszcz Szybkości",
-    "icon": "images/shoulders/capeofvelocity.jpg",
+    "icon": "/images/shoulders/capeofvelocity.jpg",
     "components": [],
     "id": "cape_of_velocity",
     "category": "Minor",
@@ -1002,7 +1002,7 @@
   {
     "name_en": "Dragon Wings",
     "name_pl": "Smocze Skrzydła",
-    "icon": "images/shoulders/dragonwings.jpg",
+    "icon": "/images/shoulders/dragonwings.jpg",
     "components": [],
     "id": "dragon_wings",
     "category": "Minor",
@@ -1012,7 +1012,7 @@
   {
     "name_en": "Everflowing Crystal Cloak",
     "name_pl": "Niewyczerpany Płaszcz Kryształów",
-    "icon": "images/shoulders/everflowingcrystalcape.jpg",
+    "icon": "/images/shoulders/everflowingcrystalcape.jpg",
     "components": [],
     "id": "everflowing_crystal_cloak",
     "category": "Minor",
@@ -1022,7 +1022,7 @@
   {
     "name_en": "Recanter's Cloak",
     "name_pl": "Płaszcz Rozpraszania",
-    "icon": "images/shoulders/recanterscloak.jpg",
+    "icon": "/images/shoulders/recanterscloak.jpg",
     "components": [],
     "id": "recanters_cloak",
     "category": "Minor",
@@ -1032,7 +1032,7 @@
   {
     "name_en": "Surcoat of Counterpoise",
     "name_pl": "Opończa Przeciwwagi",
-    "icon": "images/shoulders/surcoatofcounterpoise.jpg",
+    "icon": "/images/shoulders/surcoatofcounterpoise.jpg",
     "components": [],
     "id": "surcoat_of_counterpoise",
     "category": "Minor",
@@ -1042,7 +1042,7 @@
   {
     "name_en": "Vampire's Cowl",
     "name_pl": "Wampirzy Kaptur",
-    "icon": "images/shoulders/vampirescowl.jpg",
+    "icon": "/images/shoulders/vampirescowl.jpg",
     "components": [],
     "id": "vampires_cowl",
     "category": "Minor",
