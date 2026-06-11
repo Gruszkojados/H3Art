@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "angel_wings",
+    "name_pl": "Anielskie Skrzydła",
+    "name_en": "Angel Wings",
+    "category": "Relic",
+    "slot": "Peleryna",
+    "effect": "Zapewnia stałe zaklęcie Latanie (Fly). Ignoruje ograniczenia terenu podczas podróży.",
+    "icon": "/images/shoulders/angelwings.jpg",
+    "components": []
+  },
+  {
+    "name_en": "Armor of Wonder",
+    "name_pl": "Zbroja Cudów",
+    "icon": "/images/body/armorwonder.jpg",
+    "components": [],
+    "id": "armor_of_wonder",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+1 do Ataku, Obrony, Mocy i Wiedzy."
+  },
+  {
+    "name_en": "Breastplate of Brimstone",
+    "name_pl": "Napierśnik Siarki",
+    "icon": "/images/body/brimstonebreastplate.jpg",
+    "components": [],
+    "id": "breastplate_of_brimstone",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+5 do Mocy."
+  },
+  {
+    "name_en": "Breastplate of Petrified Wood",
+    "name_pl": "Napierśnik Skamieniałego Drewna",
+    "icon": "/images/body/breastplatewood.jpg",
+    "components": [],
+    "id": "breastplate_of_petrified_wood",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+1 do Mocy."
+  },
+  {
+    "name_en": "Cyclops Tunic",
+    "name_pl": "Tunika Cyklopa",
+    "icon": "/images/body/cyclopstunic.jpg",
+    "components": [],
+    "id": "cyclops_tunic",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+4 do Mocy."
+  },
+  {
+    "name_en": "Dragon Scale Armor",
+    "name_pl": "Smocza Łuskowa Zbroja",
+    "icon": "/images/body/dragonscalearmor.jpg",
+    "components": [],
+    "id": "dragon_scale_armor",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+4 do Ataku i +4 do Obrony."
+  },
+  {
+    "name_en": "Plate of Dying Light",
+    "name_pl": "Płyta Gasnącego Światła",
+    "icon": "/images/body/plateofdyinglight.png",
+    "components": [],
+    "id": "plate_of_dying_light",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "Zmniejsza Moc wroga o 25% podczas walki."
+  },
+  {
+    "name_en": "Rib Cage",
+    "name_pl": "Klatka Żebrowa",
+    "icon": "/images/body/ribcage.jpg",
+    "components": [],
+    "id": "rib_cage",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+2 do Mocy."
+  },
+  {
+    "name_en": "Royal Armor of Nix",
+    "name_pl": "Królewska Zbroja Nixów",
+    "icon": "/images/body/royalarmorofnix.png",
+    "components": [],
+    "id": "royal_armor_of_nix",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+6 do Mocy."
+  },
+  {
+    "name_en": "Scale of the Greater Basilisk",
+    "name_pl": "Łuska Wielkiego Bazyliszka",
+    "icon": "/images/body/scalesofbasilisk.jpg",
+    "components": [],
+    "id": "scale_of_the_greater_basilisk",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+3 do Mocy."
+  },
+  {
+    "name_en": "Titan's Cuirass",
+    "name_pl": "Pancerz Tytana",
+    "icon": "/images/body/titanscurrias.jpg",
+    "components": [],
+    "id": "titans_cuirass",
+    "category": "Minor",
+    "slot": "Tors",
+    "effect": "+10 do Mocy, -2 do Wiedzy."
+  },
+  {
+    "name_en": "Boots of the Dead Man",
+    "name_pl": "Buty Truposza",
+    "icon": "/images/boots/bootsdead.jpg",
+    "components": [],
+    "id": "boots_of_the_dead_man",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "+7,5% do Nekromancji."
+  },
+  {
+    "name_en": "Boots of Levitation",
+    "name_pl": "Buty Lewitacji",
+    "icon": "/images/boots/bootsoflevitation.jpg",
+    "components": [],
+    "id": "boots_of_levitation",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "Stałe zaklęcie Chód po wodzie (Water Walk)."
+  },
+  {
+    "name_en": "Boots of Polarity",
+    "name_pl": "Buty Polaryzacji",
+    "icon": "/images/boots/bootsofpolarity.jpg",
+    "components": [],
+    "id": "boots_of_polarity",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "+15% do odporności na magię."
+  },
+  {
+    "name_en": "Boots of Speed",
+    "name_pl": "Buty Prędkości",
+    "icon": "/images/boots/bootsofspeed.jpg",
+    "components": [],
+    "id": "boots_of_speed",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "+400 punktów ruchu."
+  },
+  {
+    "name_en": "Dragonbone Greaves",
+    "name_pl": "Nagolenniki ze Smoczych Kości",
+    "icon": "/images/boots/dragonbonegreaves.jpg",
+    "components": [],
+    "id": "dragonbone_greaves",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "+1 do Mocy i +1 do Wiedzy."
+  },
+  {
+    "name_en": "Saint's Sandals",
+    "name_pl": "Sandały Świętego",
+    "icon": "/images/boots/saintsandals.jpg",
+    "components": [],
+    "id": "saints_sandals",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "+2 do Ataku, Obrony, Mocy i Wiedzy."
+  },
+  {
+    "name_en": "Wayfarer's Boots",
+    "name_pl": "Buty Wędrowca",
+    "icon": "/images/boots/wayfarersboots.png",
+    "components": [],
+    "id": "wayfarers_boots",
+    "category": "Minor",
+    "slot": "Buty",
+    "effect": "Brak kary za poruszanie się po trudnym terenie."
+  },
+  {
+    "name_en": "Diplomat's Ring",
+    "name_pl": "Pierścień Dyplomaty",
+    "icon": "/images/hands/diplomatsring.jpg",
+    "components": [],
+    "id": "diplomats_ring",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "-10% kosztu poddania się."
+  },
+  {
+    "name_en": "Equestrian's Gloves",
+    "name_pl": "Rękawice Jeźdźca",
+    "icon": "/images/hands/equesteriansgloves.jpg",
+    "components": [],
+    "id": "equestrians_gloves",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Efekt artefaktu do uzupełnienia."
+  },
+  {
+    "name_en": "Quiet Eye of the Dragon",
+    "name_pl": "Ciche Oko Smoka",
+    "icon": "/images/hands/quietdragoneye.jpg",
+    "components": [],
+    "id": "quiet_eye_of_the_dragon",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Część Mocy Smoczego Ojca."
+  },
+  {
+    "name_en": "Ring of Conjuring",
+    "name_pl": "Pierścień Przywołania",
+    "icon": "/images/hands/ringofconjuring.jpg",
+    "components": [],
+    "id": "ring_of_conjuring",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "+2 do czasu trwania zaklęć."
+  },
+  {
+    "name_en": "Ring of Gems",
+    "name_pl": "Pierścień Klejnotów",
+    "icon": "/images/hands/ringofgems.jpg",
+    "components": [],
+    "id": "ring_of_gems",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "+1 Kryształ dziennie."
+  },
+  {
+    "name_en": "Ring of Vitality",
+    "name_pl": "Pierścień Witalności",
+    "icon": "/images/hands/ringofhealth.jpg",
+    "components": [],
+    "id": "ring_of_vitality",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Część Eliksiru Życia."
+  },
+  {
+    "name_en": "Ring of Life",
+    "name_pl": "Pierścień Życia",
+    "icon": "/images/hands/ringofhealth2.jpg",
+    "components": [],
+    "id": "ring_of_life",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Część Eliksiru Życia."
+  },
+  {
+    "name_en": "Ring of Oblivion",
+    "name_pl": "Pierścień Zapomnienia",
+    "icon": "/images/hands/ringofoblivion.png",
+    "components": [],
+    "id": "ring_of_oblivion",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Straty w bitwie są nieodwracalne."
+  },
+  {
+    "name_en": "Ring of Suppression",
+    "name_pl": "Pierścień Tłumienia",
+    "icon": "/images/hands/ringofsuppression.png",
+    "components": [],
+    "id": "ring_of_suppression",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Zmniejsza morale wroga o 1."
+  },
+  {
+    "name_en": "Ring of the Wayfarer",
+    "name_pl": "Pierścień Wędrowca",
+    "icon": "/images/hands/ringofwayfarer.jpg",
+    "components": [],
+    "id": "ring_of_the_wayfarer",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Bonus do ruchu."
+  },
+  {
+    "name_en": "Seal of Sunset",
+    "name_pl": "Pieczęć Zachodu Słońca",
+    "icon": "/images/hands/sealofsunset.png",
+    "components": [],
+    "id": "seal_of_sunset",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Zmniejsza Moc wroga o 10%."
+  },
+  {
+    "name_en": "Still Eye of the Dragon",
+    "name_pl": "Nieruchome Oko Smoka",
+    "icon": "/images/hands/stilldragoneye.jpg",
+    "components": [],
+    "id": "still_eye_of_the_dragon",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "Część Mocy Smoczego Ojca."
+  },
+  {
+    "name_en": "Sulfur Ring",
+    "name_pl": "Pierścień Siarki",
+    "icon": "/images/hands/sulfrring.jpg",
+    "components": [],
+    "id": "sulfur_ring",
+    "category": "Minor",
+    "slot": "Pierścień",
+    "effect": "+1 Siarka dziennie."
+  },
+  {
+    "name_en": "Crown of Magi",
+    "name_pl": "Korona Magów",
+    "icon": "/images/head/crownofmagi.jpg",
+    "components": [],
+    "id": "crown_of_magi",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+4 do Wiedzy."
+  },
+  {
+    "name_en": "Crown of the Five Seas",
+    "name_pl": "Korona Pięciu Mórz",
+    "icon": "/images/head/crownofthefiveseas.png",
+    "components": [],
+    "id": "crown_of_the_five_seas",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+6 do Wiedzy."
+  },
+  {
+    "name_en": "Dragon Crown",
+    "name_pl": "Smocza Korona",
+    "icon": "/images/head/dragoncrown.jpg",
+    "components": [],
+    "id": "dragon_crown",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+4 do Mocy i Wiedzy."
+  },
+  {
+    "name_en": "Hellstorm Helmet",
+    "name_pl": "Hełm Burzy Piekieł",
+    "icon": "/images/head/hellstormhelmet.jpg",
+    "components": [],
+    "id": "hellstorm_helmet",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+5 do Wiedzy."
+  },
+  {
+    "name_en": "Helm of Chaos",
+    "name_pl": "Hełm Chaosu",
+    "icon": "/images/head/helmofchaos.jpg",
+    "components": [],
+    "id": "helm_of_chaos",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+3 do Wiedzy."
+  },
+  {
+    "name_en": "Helm of Enlightenment",
+    "name_pl": "Hełm Oświecenia",
+    "icon": "/images/head/helmofenlightenment.jpg",
+    "components": [],
+    "id": "helm_of_enlightenment",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+6 do wszystkich statystyk głównych."
+  },
+  {
+    "name_en": "Unicorn Helm",
+    "name_pl": "Hełm Jednorożca",
+    "icon": "/images/head/helmunicorn.jpg",
+    "components": [],
+    "id": "unicorn_helm",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+1 do Wiedzy."
+  },
+  {
+    "name_en": "Sea Captain's Hat",
+    "name_pl": "Kapelusz Kapitana Morskiego",
+    "icon": "/images/head/seacaptainshat.jpg",
+    "components": [],
+    "id": "sea_captains_hat",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+500 punktów ruchu na morzu + zdolności morskie."
+  },
+  {
+    "name_en": "Skull Helmet",
+    "name_pl": "Czaszkowy Hełm",
+    "icon": "/images/head/skullhelmet.jpg",
+    "components": [],
+    "id": "skull_helmet",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "+2 do Wiedzy."
+  },
+  {
+    "name_en": "Spellbinder's Hat",
+    "name_pl": "Kapelusz Zaklinacza",
+    "icon": "/images/head/spellbindershat.jpg",
+    "components": [],
+    "id": "spellbinders_hat",
+    "category": "Minor",
+    "slot": "Głowa",
+    "effect": "Dostęp do wszystkich zaklęć 5. poziomu."
+  },
+  {
+    "name_en": "Thunder Helmet",
+    "name_pl": "Hełm Gromu",
+    "icon": "/images/head/thunderhelmet.jpg",
+    "components": [],
+    "id": "thunder_helmet",
+    "category": "Zestaw",
+    "slot": "Głowa",
+    "effect": "-2 do Mocy, +10 do Wiedzy."
+  },
+  {
+    "name_en": "Dragon Scale Shield",
+    "name_pl": "Smocza Łuskowa Tarcza",
+    "icon": "/images/leftHand/dragonscaleshield.jpg",
+    "components": [],
+    "id": "dragon_scale_shield",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+3 do Ataku i +3 do Obrony."
+  },
+  {
+    "name_en": "Dwarven Shield",
+    "name_pl": "Krasnoludzka Tarcza",
+    "icon": "/images/leftHand/dwarvenshield.jpg",
+    "components": [],
+    "id": "dwarven_shield",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+2 do Obrony."
+  },
+  {
+    "name_en": "Gnoll's Buckler",
+    "name_pl": "Puklerz Gnolla",
+    "icon": "/images/leftHand/gnollsbuckler.jpg",
+    "components": [],
+    "id": "gnolls_buckler",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+4 do Obrony."
+  },
+  {
+    "name_en": "Ogre's Targe",
+    "name_pl": "Tarcza Ogra",
+    "icon": "/images/leftHand/ogretarge.jpg",
+    "components": [],
+    "id": "ogres_targe",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+5 do Obrony."
+  },
+  {
+    "name_en": "Sentinel's Shield",
+    "name_pl": "Tarcza Strażnika",
+    "icon": "/images/leftHand/sentinelsshield.jpg",
+    "components": [],
+    "id": "sentinels_shield",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "-3 do Ataku, +12 do Obrony."
+  },
+  {
+    "name_en": "Shield of the Damned",
+    "name_pl": "Tarcza Potępionych",
+    "icon": "/images/leftHand/shielddamned.jpg",
+    "components": [],
+    "id": "shield_of_the_damned",
+    "category": "Zestaw",
+    "slot": "Tarcza",
+    "effect": "+6 do Obrony."
+  },
+  {
+    "name_en": "Shield of Courage",
+    "name_pl": "Tarcza Odwagi",
+    "icon": "/images/leftHand/shieldofcourage.jpg",
+    "components": [],
+    "id": "shield_of_courage",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+4 do Ataku, Obrony, Mocy i Wiedzy."
+  },
+  {
+    "name_en": "Shield of Naval Glory",
+    "name_pl": "Tarcza Morskiej Chwały",
+    "icon": "/images/leftHand/shieldofnavalglory.png",
+    "components": [],
+    "id": "shield_of_naval_glory",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+7 do Obrony."
+  },
+  {
+    "name_en": "Shield of Yawning Dead",
+    "name_pl": "Tarcza Ziewającej Śmierci",
+    "icon": "/images/leftHand/shieldyawningdeath.jpg",
+    "components": [],
+    "id": "shield_of_yawning_dead",
+    "category": "Minor",
+    "slot": "Tarcza",
+    "effect": "+3 do Obrony."
+  },
+  {
+    "name_en": "Celestial Necklace of Bliss",
+    "name_pl": "Niebiański Naszyjnik Błogości",
+    "icon": "/images/neck/celestialnecklace.jpg",
+    "components": [],
+    "id": "celestial_necklace_of_bliss",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "+3 do Ataku, Obrony, Mocy i Wiedzy."
+  },
+  {
+    "name_en": "Charm of Eclipse",
+    "name_pl": "Amulet Zaćmienia",
+    "icon": "/images/neck/charmofeclipse.png",
+    "components": [],
+    "id": "charm_of_eclipse",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Zmniejsza Moc wroga o 10%."
+  },
+  {
+    "name_en": "Collar of Conjuring",
+    "name_pl": "Kołnierz Przywołania",
+    "icon": "/images/neck/collarofconjuring.jpg",
+    "components": [],
+    "id": "collar_of_conjuring",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "+1 do czasu trwania zaklęć."
+  },
+  {
+    "name_en": "Dragon Teeth Necklace",
+    "name_pl": "Naszyjnik ze Smoczych Zębów",
+    "icon": "/images/neck/dragonteeth.jpg",
+    "components": [],
+    "id": "dragon_teeth_necklace",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "+3 do Mocy i Wiedzy."
+  },
+  {
+    "name_en": "Garniture of Interference",
+    "name_pl": "Ozdoba Zakłóceń",
+    "icon": "/images/neck/garnitureinterference.jpg",
+    "components": [],
+    "id": "garniture_of_interference",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "+5% do odporności na magię."
+  },
+  {
+    "name_en": "Necklace of Ocean Guidance",
+    "name_pl": "Naszyjnik Morskiego Przewodnictwa",
+    "icon": "/images/neck/necklaceocean.jpg",
+    "components": [],
+    "id": "necklace_of_ocean_guidance",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Część Kapelusza Admirała."
+  },
+  {
+    "name_en": "Necklace of Swiftness",
+    "name_pl": "Naszyjnik Szybkości",
+    "icon": "/images/neck/necklaceofswiftness.jpg",
+    "components": [],
+    "id": "necklace_of_swiftness",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Bonus do szybkości jednostek."
+  },
+  {
+    "name_en": "Pendant of Courage",
+    "name_pl": "Wisiorek Odwagi",
+    "icon": "/images/neck/pendantofcourage.jpg",
+    "components": [],
+    "id": "pendant_of_courage",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "+1 do morale."
+  },
+  {
+    "name_en": "Pendant of Death",
+    "name_pl": "Wisiorek Śmierci",
+    "icon": "/images/neck/pendantofdeath.jpg",
+    "components": [],
+    "id": "pendant_of_death",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Destroy Undead."
+  },
+  {
+    "name_en": "Pendant of Dispassion",
+    "name_pl": "Wisiorek Opanowania",
+    "icon": "/images/neck/pendantofdispassion.jpg",
+    "components": [],
+    "id": "pendant_of_dispassion",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Berserk."
+  },
+  {
+    "name_en": "Pendant of Downfall",
+    "name_pl": "Wisiorek Upadku",
+    "icon": "/images/neck/pendantofdownfall.png",
+    "components": [],
+    "id": "pendant_of_downfall",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Zmniejsza morale wroga o 2."
+  },
+  {
+    "name_en": "Pendant of Free Will",
+    "name_pl": "Wisiorek Wolnej Woli",
+    "icon": "/images/neck/pendantoffreewill.jpg",
+    "components": [],
+    "id": "pendant_of_free_will",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Hypnotize."
+  },
+  {
+    "name_en": "Pendant of Holiness",
+    "name_pl": "Wisiorek Świętości",
+    "icon": "/images/neck/pendantofholiness.jpg",
+    "components": [],
+    "id": "pendant_of_holiness",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Curse."
+  },
+  {
+    "name_en": "Pendant of Life",
+    "name_pl": "Wisiorek Życia",
+    "icon": "/images/neck/pendantoflife.jpg",
+    "components": [],
+    "id": "pendant_of_life",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Death Ripple."
+  },
+  {
+    "name_en": "Pendant of Negativity",
+    "name_pl": "Wisiorek Negatywności",
+    "icon": "/images/neck/pendantofnegativity.jpg",
+    "components": [],
+    "id": "pendant_of_negativity",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Lightning Bolt i Chain Lightning."
+  },
+  {
+    "name_en": "Pendant of Second Sight",
+    "name_pl": "Wisiorek Drugiego Spojrzenia",
+    "icon": "/images/neck/pendantofsecondsight.jpg",
+    "components": [],
+    "id": "pendant_of_second_sight",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Blind."
+  },
+  {
+    "name_en": "Pendant of Total Recall",
+    "name_pl": "Wisiorek Doskonałej Pamięci",
+    "icon": "/images/neck/pendantoftotalrecall.jpg",
+    "components": [],
+    "id": "pendant_of_total_recall",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "Odporność na Forgetfulness."
+  },
+  {
+    "name_en": "Statesman's Medal",
+    "name_pl": "Medal Męża Stanu",
+    "icon": "/images/neck/statesmenmedal.jpg",
+    "components": [],
+    "id": "statesmans_medal",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "-10% kosztu poddania się."
+  },
+  {
+    "name_en": "Undertaker's Amulet",
+    "name_pl": "Amulet Grabarza",
+    "icon": "/images/neck/undertakeramulet.jpg",
+    "components": [],
+    "id": "undertakers_amulet",
+    "category": "Minor",
+    "slot": "Szyja",
+    "effect": "+2,5% do Nekromancji."
+  },
+  {
+    "name_en": "Armageddon's Blade",
+    "name_pl": "Ostrze Armagedonu",
+    "icon": "/images/rightHand/armageddonsblade.jpg",
+    "components": [],
+    "id": "armageddons_blade",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+3 Atak, +3 Obrona, +6 Moc, +3 Wiedza. Expert Armageddon."
+  },
+  {
+    "name_en": "Blackshard of the Dead Knight",
+    "name_pl": "Czarny Odłamek Martwego Rycerza",
+    "icon": "/images/rightHand/blackshard.jpg",
+    "components": [],
+    "id": "blackshard_of_the_dead_knight",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+3 do Ataku."
+  },
+  {
+    "name_en": "Centaur's Axe",
+    "name_pl": "Topór Centaura",
+    "icon": "/images/rightHand/centaursaxe.jpg",
+    "components": [],
+    "id": "centaurs_axe",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+2 do Ataku."
+  },
+  {
+    "name_en": "Dragon Flame Tongue",
+    "name_pl": "Smoczy Ognisty Język",
+    "icon": "/images/rightHand/dragonflametongue.jpg",
+    "components": [],
+    "id": "dragon_flame_tongue",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+2 do Ataku i Obrony."
+  },
+  {
+    "name_en": "Gnoll's Flail",
+    "name_pl": "Cep Gnolla",
+    "icon": "/images/rightHand/gnollsflail.jpg",
+    "components": [],
+    "id": "gnolls_flail",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+4 do Ataku."
+  },
+  {
+    "name_en": "Ogre's Club",
+    "name_pl": "Maczuga Ogra",
+    "icon": "/images/rightHand/ogresclub.jpg",
+    "components": [],
+    "id": "ogres_club",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+5 do Ataku."
+  },
+  {
+    "name_en": "Sword of Hellfire",
+    "name_pl": "Miecz Piekielnego Ognia",
+    "icon": "/images/rightHand/swordofhellfire.jpg",
+    "components": [],
+    "id": "sword_of_hellfire",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+6 do Ataku."
+  },
+  {
+    "name_en": "Sword of Judgement",
+    "name_pl": "Miecz Osądu",
+    "icon": "/images/rightHand/swordofjudgement.jpg",
+    "components": [],
+    "id": "sword_of_judgement",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+5 do wszystkich statystyk głównych."
+  },
+  {
+    "name_en": "Titan's Gladius",
+    "name_pl": "Gladius Tytana",
+    "icon": "/images/rightHand/titansgladius.jpg",
+    "components": [],
+    "id": "titans_gladius",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+12 do Ataku, -3 do Obrony."
+  },
+  {
+    "name_en": "Trident of Dominion",
+    "name_pl": "Trójząb Władzy",
+    "icon": "/images/rightHand/tridentofdominion.png",
+    "components": [],
+    "id": "trident_of_dominion",
+    "category": "Minor",
+    "slot": "Broń",
+    "effect": "+7 do Ataku."
+  },
+  {
+    "name_en": "Admiral's Hat",
+    "name_pl": "Kapelusz Admirała",
+    "icon": "/images/sets/admiralshat.jpg",
+    "components": ["sea_captains_hat", "necklace_of_ocean_guidance"],
+    "id": "admirals_hat",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+1500 punktów ruchu na morzu, Summon Boat, Scuttle Boat, ochrona przed wirami."
+  },
+  {
+    "name_en": "Angelic Alliance",
+    "name_pl": "Anielskie Przymierze",
+    "icon": "/images/sets/angelicalliance.jpg",
+    "components": ["helm_of_enlightenment", "sword_of_judgement", "celestial_necklace_of_bliss", "lions_shield_of_courage", "sandals_of_the_saint", "armor_of_wonder"],
+    "id": "angelic_alliance",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+21 do wszystkich statystyk. Expert Prayer + brak kary morale za dobre/neutralne jednostki."
+  },
+  {
+    "name_en": "Armor of the Damned",
+    "name_pl": "Zbroja Potępionych",
+    "icon": "/images/sets/armorofthedamned.jpg",
+    "components": ["skull_helmet", "rib_cage", "shield_of_the_damned", "blackshard_of_the_dead_knight"],
+    "id": "armor_of_the_damned",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+3 Atak, +3 Obrona, +2 Moc, +2 Wiedza. Expert Curse, Misfortune, Slow, Weakness."
+  },
+  {
+    "name_en": "Bow of the Sharpshooter",
+    "name_pl": "Łuk Wyborowego Strzelca",
+    "icon": "/images/sets/bowofsharpshooter.jpg",
+    "components": ["elven_bow", "bowstring_of_the_unicorns_mane", "angel_feather_arrows"],
+    "id": "bow_of_the_sharpshooter",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "Strzały ignorują dystans i przeszkody."
+  },
+  {
+    "name_en": "Cloak of the Undead King",
+    "name_pl": "Płaszcz Króla Nieumarłych",
+    "icon": "/images/sets/cloakofthedead.jpg",
+    "components": ["amulet_of_the_undertaker", "vampires_cowl", "dead_mans_boots"],
+    "id": "cloak_of_the_undead_king",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+15% Nekromancji + podnoszenie nieumarłych."
+  },
+  {
+    "name_en": "Cornucopia",
+    "name_pl": "Róg Obfitości",
+    "icon": "/images/sets/cornucopia.jpg",
+    "components": ["endless_sack_of_gold", "endless_bag_of_gold", "endless_purse_of_gold", "inexhaustible_cart_of_lumber", "inexhaustible_cart_of_ore"],
+    "id": "cornucopia",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "Duże ilości zasobów codziennie."
+  },
+  {
+    "name_en": "Diplomat's Cloak",
+    "name_pl": "Płaszcz Dyplomaty",
+    "icon": "/images/sets/diplomatscloak.png",
+    "components": [],
+    "id": "diplomats_cloak",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "-30% koszt poddania się + lepsze dyplomacja."
+  },
+  {
+    "name_en": "Elixir of Life",
+    "name_pl": "Eliksir Życia",
+    "icon": "/images/sets/elixiroflife.jpg",
+    "components": ["ring_of_life", "ring_of_vitality", "vial_of_lifeblood"],
+    "id": "elixir_of_life",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "Zwiększa zdrowie jednostek."
+  },
+  {
+    "name_en": "Golden Goose",
+    "name_pl": "Złota Gęś",
+    "icon": "/images/sets/goldengoose.png",
+    "components": [],
+    "id": "golden_goose",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "4750 złota dziennie."
+  },
+  {
+    "name_en": "Ironfist of the Ogre",
+    "name_pl": "Żelazna Pięść Ogra",
+    "icon": "/images/sets/ironfistoftheogre.png",
+    "components": ["ogres_club", "targe_of_the_rampaging_ogre", "crown_of_the_supreme_magi", "tunic_of_the_cyclops_king"],
+    "id": "ironfist_of_the_ogre",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "+5 Atak/Obrona, +4 Moc/Wiedza + buffy bojowe."
+  },
+  {
+    "name_en": "Pendant of Reflection",
+    "name_pl": "Medalion Odbicia",
+    "icon": "/images/sets/pendantofreflection.png",
+    "components": [],
+    "id": "pendant_of_reflection",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "+20% odporności na magię."
+  },
+  {
+    "name_en": "Power of the Dragon Father",
+    "name_pl": "Moc Smoczego Ojca",
+    "icon": "/images/sets/powerofdragonfather.jpg",
+    "components": ["dragonbone_greaves", "dragon_wing_tabard", "dragon_scale_shield", "dragon_scale_armor", "dragonbone_necklace", "dragon_talon_crown", "red_dragon_flame_tongue", "still_eye_of_the_dragon", "quiet_eye_of_the_dragon"],
+    "id": "power_of_the_dragon_father",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+16 do wszystkich statystyk + odporności."
+  },
+  {
+    "name_en": "Ring of the Magi",
+    "name_pl": "Pierścień Maga",
+    "icon": "/images/sets/ringofmagi.jpg",
+    "components": ["charm_of_mana", "talisman_of_mana", "mystic_orb_of_mana"],
+    "id": "ring_of_the_magi",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "Znacznie dłuższy czas zaklęć."
+  },
+  {
+    "name_en": "Statue of Legion",
+    "name_pl": "Posąg Legionów",
+    "icon": "/images/sets/statueoflegion.jpg",
+    "components": ["legion_head", "legion_torso", "legion_arms", "legion_legs", "legion_feet"],
+    "id": "statue_of_legion",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "Zwiększa przyrost stworzeń w mieście."
+  },
+  {
+    "name_en": "Titan's Thunder",
+    "name_pl": "Grom Tytana",
+    "icon": "/images/sets/titansthunder.jpg",
+    "components": ["thunder_helmet", "titans_cuirass", "titans_gladius", "sentinels_shield"],
+    "id": "titans_thunder",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+9 Atak/Obrona, +8 Moc/Wiedza + Titan's Lightning Bolt."
+  },
+  {
+    "name_en": "Wizard's Well",
+    "name_pl": "Studnia Maga",
+    "icon": "/images/sets/wizardswell.jpg",
+    "components": ["orb_of_mana", "ring_of_the_magi"],
+    "id": "wizards_well",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "Regeneracja many."
+  },
+  {
+    "name_en": "Ambassador's Sash",
+    "name_pl": "Szarfa Ambasadora",
+    "icon": "/images/shoulders/ambasadorssash.jpg",
+    "components": [],
+    "id": "ambassadors_sash",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "-10% kosztu poddania się."
+  },
+  {
+    "name_en": "Cape of Conjuring",
+    "name_pl": "Płaszcz Przywoływania",
+    "icon": "/images/shoulders/capeofconjuring.jpg",
+    "components": [],
+    "id": "cape_of_conjuring",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "+3 do czasu trwania zaklęć."
+  },
+  {
+    "name_en": "Cape of Silence",
+    "name_pl": "Płaszcz Ciszy",
+    "icon": "/images/shoulders/capeofsilence.png",
+    "components": [],
+    "id": "cape_of_silence",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "Blokuje zaklęcia 1-2 poziomu."
+  },
+  {
+    "name_en": "Cape of Velocity",
+    "name_pl": "Płaszcz Szybkości",
+    "icon": "/images/shoulders/capeofvelocity.jpg",
+    "components": [],
+    "id": "cape_of_velocity",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "+2 do szybkości jednostek."
+  },
+  {
+    "name_en": "Dragon Wings",
+    "name_pl": "Smocze Skrzydła",
+    "icon": "/images/shoulders/dragonwings.jpg",
+    "components": [],
+    "id": "dragon_wings",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "Bonus do lotu."
+  },
+  {
+    "name_en": "Everflowing Crystal Cloak",
+    "name_pl": "Niewyczerpany Płaszcz Kryształów",
+    "icon": "/images/shoulders/everflowingcrystalcape.jpg",
+    "components": [],
+    "id": "everflowing_crystal_cloak",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "+1 Kryształ dziennie."
+  },
+  {
+    "name_en": "Recanter's Cloak",
+    "name_pl": "Płaszcz Rozpraszania",
+    "icon": "/images/shoulders/recanterscloak.jpg",
+    "components": [],
+    "id": "recanters_cloak",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "Blokuje zaklęcia 3+ poziomu."
+  },
+  {
+    "name_en": "Surcoat of Counterpoise",
+    "name_pl": "Opończa Przeciwwagi",
+    "icon": "/images/shoulders/surcoatofcounterpoise.jpg",
+    "components": [],
+    "id": "surcoat_of_counterpoise",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "+10% do odporności na magię."
+  },
+  {
+    "name_en": "Vampire's Cowl",
+    "name_pl": "Wampirzy Kaptur",
+    "icon": "/images/shoulders/vampirescowl.jpg",
+    "components": [],
+    "id": "vampires_cowl",
+    "category": "Minor",
+    "slot": "Peleryna",
+    "effect": "+5% do Nekromancji."
+  }
+]
