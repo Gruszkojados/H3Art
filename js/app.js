@@ -60,7 +60,7 @@ function renderCards(items) {
             </div>
 
             <div class="meta">
-                ${a.category} | ${a.slot}
+                ${a.slot}
             </div>
 
             <p>
@@ -105,10 +105,6 @@ function renderIcons(items) {
                 </div>
 
                 <hr>
-
-                <div>
-                    ${a.category}
-                </div>
 
                 <div>
                     ${a.slot}

@@ -410,16 +410,6 @@
     "effect": "Dostęp do wszystkich zaklęć 5. poziomu."
   },
   {
-    "name_en": "Thunder Helmet",
-    "name_pl": "Hełm Gromu",
-    "icon": "images/head/thunderhelmet.jpg",
-    "components": [],
-    "id": "thunder_helmet",
-    "category": "Zestaw",
-    "slot": "Głowa",
-    "effect": "-2 do Mocy, +10 do Wiedzy."
-  },
-  {
     "name_en": "Dragon Scale Shield",
     "name_pl": "Smocza Łuskowa Tarcza",
     "icon": "images/leftHand/dragonscaleshield.jpg",
@@ -468,16 +458,6 @@
     "category": "Minor",
     "slot": "Tarcza",
     "effect": "-3 do Ataku, +12 do Obrony."
-  },
-  {
-    "name_en": "Shield of the Damned",
-    "name_pl": "Tarcza Potępionych",
-    "icon": "images/leftHand/shielddamned.jpg",
-    "components": [],
-    "id": "shield_of_the_damned",
-    "category": "Zestaw",
-    "slot": "Tarcza",
-    "effect": "+6 do Obrony."
   },
   {
     "name_en": "Shield of Courage",
@@ -798,166 +778,6 @@
     "category": "Minor",
     "slot": "Broń",
     "effect": "+7 do Ataku."
-  },
-  {
-    "name_en": "Admiral's Hat",
-    "name_pl": "Kapelusz Admirała",
-    "icon": "images/sets/admiralshat.jpg",
-    "components": ["sea_captains_hat", "necklace_of_ocean_guidance"],
-    "id": "admirals_hat",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "+1500 punktów ruchu na morzu, Summon Boat, Scuttle Boat, ochrona przed wirami."
-  },
-  {
-    "name_en": "Angelic Alliance",
-    "name_pl": "Anielskie Przymierze",
-    "icon": "images/sets/angelicalliance.jpg",
-    "components": ["helm_of_enlightenment", "sword_of_judgement", "celestial_necklace_of_bliss", "lions_shield_of_courage", "sandals_of_the_saint", "armor_of_wonder"],
-    "id": "angelic_alliance",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "+21 do wszystkich statystyk. Expert Prayer + brak kary morale za dobre/neutralne jednostki."
-  },
-  {
-    "name_en": "Armor of the Damned",
-    "name_pl": "Zbroja Potępionych",
-    "icon": "images/sets/armorofthedamned.jpg",
-    "components": ["skull_helmet", "rib_cage", "shield_of_the_damned", "blackshard_of_the_dead_knight"],
-    "id": "armor_of_the_damned",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "+3 Atak, +3 Obrona, +2 Moc, +2 Wiedza. Expert Curse, Misfortune, Slow, Weakness."
-  },
-  {
-    "name_en": "Bow of the Sharpshooter",
-    "name_pl": "Łuk Wyborowego Strzelca",
-    "icon": "images/sets/bowofsharpshooter.jpg",
-    "components": ["elven_bow", "bowstring_of_the_unicorns_mane", "angel_feather_arrows"],
-    "id": "bow_of_the_sharpshooter",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "Strzały ignorują dystans i przeszkody."
-  },
-  {
-    "name_en": "Cloak of the Undead King",
-    "name_pl": "Płaszcz Króla Nieumarłych",
-    "icon": "images/sets/cloakofthedead.jpg",
-    "components": ["amulet_of_the_undertaker", "vampires_cowl", "dead_mans_boots"],
-    "id": "cloak_of_the_undead_king",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "+15% Nekromancji + podnoszenie nieumarłych."
-  },
-  {
-    "name_en": "Cornucopia",
-    "name_pl": "Róg Obfitości",
-    "icon": "images/sets/cornucopia.jpg",
-    "components": ["endless_sack_of_gold", "endless_bag_of_gold", "endless_purse_of_gold", "inexhaustible_cart_of_lumber", "inexhaustible_cart_of_ore"],
-    "id": "cornucopia",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "Duże ilości zasobów codziennie."
-  },
-  {
-    "name_en": "Diplomat's Cloak",
-    "name_pl": "Płaszcz Dyplomaty",
-    "icon": "images/sets/diplomatscloak.png",
-    "components": [],
-    "id": "diplomats_cloak",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "-30% koszt poddania się + lepsze dyplomacja."
-  },
-  {
-    "name_en": "Elixir of Life",
-    "name_pl": "Eliksir Życia",
-    "icon": "images/sets/elixiroflife.jpg",
-    "components": ["ring_of_life", "ring_of_vitality", "vial_of_lifeblood"],
-    "id": "elixir_of_life",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "Zwiększa zdrowie jednostek."
-  },
-  {
-    "name_en": "Golden Goose",
-    "name_pl": "Złota Gęś",
-    "icon": "images/sets/goldengoose.png",
-    "components": [],
-    "id": "golden_goose",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "4750 złota dziennie."
-  },
-  {
-    "name_en": "Ironfist of the Ogre",
-    "name_pl": "Żelazna Pięść Ogra",
-    "icon": "images/sets/ironfistoftheogre.png",
-    "components": ["ogres_club", "targe_of_the_rampaging_ogre", "crown_of_the_supreme_magi", "tunic_of_the_cyclops_king"],
-    "id": "ironfist_of_the_ogre",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "+5 Atak/Obrona, +4 Moc/Wiedza + buffy bojowe."
-  },
-  {
-    "name_en": "Pendant of Reflection",
-    "name_pl": "Medalion Odbicia",
-    "icon": "images/sets/pendantofreflection.png",
-    "components": [],
-    "id": "pendant_of_reflection",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "+20% odporności na magię."
-  },
-  {
-    "name_en": "Power of the Dragon Father",
-    "name_pl": "Moc Smoczego Ojca",
-    "icon": "images/sets/powerofdragonfather.jpg",
-    "components": ["dragonbone_greaves", "dragon_wing_tabard", "dragon_scale_shield", "dragon_scale_armor", "dragonbone_necklace", "dragon_talon_crown", "red_dragon_flame_tongue", "still_eye_of_the_dragon", "quiet_eye_of_the_dragon"],
-    "id": "power_of_the_dragon_father",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "+16 do wszystkich statystyk + odporności."
-  },
-  {
-    "name_en": "Ring of the Magi",
-    "name_pl": "Pierścień Maga",
-    "icon": "images/sets/ringofmagi.jpg",
-    "components": ["charm_of_mana", "talisman_of_mana", "mystic_orb_of_mana"],
-    "id": "ring_of_the_magi",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "Znacznie dłuższy czas zaklęć."
-  },
-  {
-    "name_en": "Statue of Legion",
-    "name_pl": "Posąg Legionów",
-    "icon": "images/sets/statueoflegion.jpg",
-    "components": ["legion_head", "legion_torso", "legion_arms", "legion_legs", "legion_feet"],
-    "id": "statue_of_legion",
-    "category": "Minor",
-    "slot": "Zestaw",
-    "effect": "Zwiększa przyrost stworzeń w mieście."
-  },
-  {
-    "name_en": "Titan's Thunder",
-    "name_pl": "Grom Tytana",
-    "icon": "images/sets/titansthunder.jpg",
-    "components": ["thunder_helmet", "titans_cuirass", "titans_gladius", "sentinels_shield"],
-    "id": "titans_thunder",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "+9 Atak/Obrona, +8 Moc/Wiedza + Titan's Lightning Bolt."
-  },
-  {
-    "name_en": "Wizard's Well",
-    "name_pl": "Studnia Maga",
-    "icon": "images/sets/wizardswell.jpg",
-    "components": ["orb_of_mana", "ring_of_the_magi"],
-    "id": "wizards_well",
-    "category": "Zestaw",
-    "slot": "Zestaw",
-    "effect": "Regeneracja many."
   },
   {
     "name_en": "Ambassador's Sash",
@@ -1430,5 +1250,188 @@
     "effect": "Dodaje do księgi zaklęć wszystkie zaklęcia magii wody.",
     "icon": "images/trinkets/watertome.jpg",
     "components": []
+  },
+
+
+
+  {
+    "name_en": "Thunder Helmet",
+    "name_pl": "Hełm Gromu",
+    "icon": "images/head/thunderhelmet.jpg",
+    "components": [],
+    "id": "thunder_helmet",
+    "category": "Zestaw",
+    "slot": "Głowa",
+    "effect": "-2 do Mocy, +10 do Wiedzy."
+  }, 
+  {
+    "name_en": "Shield of the Damned",
+    "name_pl": "Tarcza Potępionych",
+    "icon": "images/leftHand/shielddamned.jpg",
+    "components": [],
+    "id": "shield_of_the_damned",
+    "category": "Zestaw",
+    "slot": "Tarcza",
+    "effect": "+6 do Obrony."
+  },
+  {
+    "name_en": "Admiral's Hat",
+    "name_pl": "Kapelusz Admirała",
+    "icon": "images/sets/admiralshat.jpg",
+    "components": ["sea_captains_hat", "necklace_of_ocean_guidance"],
+    "id": "admirals_hat",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+1500 punktów ruchu na morzu, Summon Boat, Scuttle Boat, ochrona przed wirami."
+  },
+  {
+    "name_en": "Angelic Alliance",
+    "name_pl": "Anielskie Przymierze",
+    "icon": "images/sets/angelicalliance.jpg",
+    "components": ["helm_of_enlightenment", "sword_of_judgement", "celestial_necklace_of_bliss", "lions_shield_of_courage", "sandals_of_the_saint", "armor_of_wonder"],
+    "id": "angelic_alliance",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+21 do wszystkich statystyk. Expert Prayer + brak kary morale za dobre/neutralne jednostki."
+  },
+  {
+    "name_en": "Armor of the Damned",
+    "name_pl": "Zbroja Potępionych",
+    "icon": "images/sets/armorofthedamned.jpg",
+    "components": ["skull_helmet", "rib_cage", "shield_of_the_damned", "blackshard_of_the_dead_knight"],
+    "id": "armor_of_the_damned",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+3 Atak, +3 Obrona, +2 Moc, +2 Wiedza. Expert Curse, Misfortune, Slow, Weakness."
+  },
+  {
+    "name_en": "Bow of the Sharpshooter",
+    "name_pl": "Łuk Wyborowego Strzelca",
+    "icon": "images/sets/bowofsharpshooter.jpg",
+    "components": ["elven_bow", "bowstring_of_the_unicorns_mane", "angel_feather_arrows"],
+    "id": "bow_of_the_sharpshooter",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "Strzały ignorują dystans i przeszkody."
+  },
+  {
+    "name_en": "Cloak of the Undead King",
+    "name_pl": "Płaszcz Króla Nieumarłych",
+    "icon": "images/sets/cloakofthedead.jpg",
+    "components": ["amulet_of_the_undertaker", "vampires_cowl", "dead_mans_boots"],
+    "id": "cloak_of_the_undead_king",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+15% Nekromancji + podnoszenie nieumarłych."
+  },
+  {
+    "name_en": "Cornucopia",
+    "name_pl": "Róg Obfitości",
+    "icon": "images/sets/cornucopia.jpg",
+    "components": ["endless_sack_of_gold", "endless_bag_of_gold", "endless_purse_of_gold", "inexhaustible_cart_of_lumber", "inexhaustible_cart_of_ore"],
+    "id": "cornucopia",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "Duże ilości zasobów codziennie."
+  },
+  {
+    "name_en": "Diplomat's Cloak",
+    "name_pl": "Płaszcz Dyplomaty",
+    "icon": "images/sets/diplomatscloak.png",
+    "components": [],
+    "id": "diplomats_cloak",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "-30% koszt poddania się + lepsze dyplomacja."
+  },
+  {
+    "name_en": "Elixir of Life",
+    "name_pl": "Eliksir Życia",
+    "icon": "images/sets/elixiroflife.jpg",
+    "components": ["ring_of_life", "ring_of_vitality", "vial_of_lifeblood"],
+    "id": "elixir_of_life",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "Zwiększa zdrowie jednostek."
+  },
+  {
+    "name_en": "Golden Goose",
+    "name_pl": "Złota Gęś",
+    "icon": "images/sets/goldengoose.png",
+    "components": [],
+    "id": "golden_goose",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "4750 złota dziennie."
+  },
+  {
+    "name_en": "Ironfist of the Ogre",
+    "name_pl": "Żelazna Pięść Ogra",
+    "icon": "images/sets/ironfistoftheogre.png",
+    "components": ["ogres_club", "targe_of_the_rampaging_ogre", "crown_of_the_supreme_magi", "tunic_of_the_cyclops_king"],
+    "id": "ironfist_of_the_ogre",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "+5 Atak/Obrona, +4 Moc/Wiedza + buffy bojowe."
+  },
+  {
+    "name_en": "Pendant of Reflection",
+    "name_pl": "Medalion Odbicia",
+    "icon": "images/sets/pendantofreflection.png",
+    "components": [],
+    "id": "pendant_of_reflection",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "+20% odporności na magię."
+  },
+  {
+    "name_en": "Power of the Dragon Father",
+    "name_pl": "Moc Smoczego Ojca",
+    "icon": "images/sets/powerofdragonfather.jpg",
+    "components": ["dragonbone_greaves", "dragon_wing_tabard", "dragon_scale_shield", "dragon_scale_armor", "dragonbone_necklace", "dragon_talon_crown", "red_dragon_flame_tongue", "still_eye_of_the_dragon", "quiet_eye_of_the_dragon"],
+    "id": "power_of_the_dragon_father",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+16 do wszystkich statystyk + odporności."
+  },
+  {
+    "name_en": "Ring of the Magi",
+    "name_pl": "Pierścień Maga",
+    "icon": "images/sets/ringofmagi.jpg",
+    "components": ["charm_of_mana", "talisman_of_mana", "mystic_orb_of_mana"],
+    "id": "ring_of_the_magi",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "Znacznie dłuższy czas zaklęć."
+  },
+  {
+    "name_en": "Statue of Legion",
+    "name_pl": "Posąg Legionów",
+    "icon": "images/sets/statueoflegion.jpg",
+    "components": ["legion_head", "legion_torso", "legion_arms", "legion_legs", "legion_feet"],
+    "id": "statue_of_legion",
+    "category": "Minor",
+    "slot": "Zestaw",
+    "effect": "Zwiększa przyrost stworzeń w mieście."
+  },
+  {
+    "name_en": "Titan's Thunder",
+    "name_pl": "Grom Tytana",
+    "icon": "images/sets/titansthunder.jpg",
+    "components": ["thunder_helmet", "titans_cuirass", "titans_gladius", "sentinels_shield"],
+    "id": "titans_thunder",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "+9 Atak/Obrona, +8 Moc/Wiedza + Titan's Lightning Bolt."
+  },
+  {
+    "name_en": "Wizard's Well",
+    "name_pl": "Studnia Maga",
+    "icon": "images/sets/wizardswell.jpg",
+    "components": ["orb_of_mana", "ring_of_the_magi"],
+    "id": "wizards_well",
+    "category": "Zestaw",
+    "slot": "Zestaw",
+    "effect": "Regeneracja many."
   }
 ]
