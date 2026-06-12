@@ -1048,5 +1048,387 @@
     "category": "Minor",
     "slot": "Peleryna",
     "effect": "+5% do Nekromancji."
+  },
+
+
+  {
+    "id": "air_tome",
+    "name_pl": "Księga Magii Powietrza",
+    "name_en": "Air Tome",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Dodaje do księgi zaklęć wszystkie zaklęcia magii powietrza.",
+    "icon": "images/trinkets/airtome.jpg",
+    "components": []
+  },
+  {
+    "id": "badge_of_courage",
+    "name_pl": "Order Męstwa",
+    "name_en": "Badge of Courage",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do morale. Oddziały stają się odporne na zaklęcia umysłu.",
+    "icon": "images/trinkets/badgecourage.jpg",
+    "components": []
+  },
+  {
+    "id": "bird_of_perception",
+    "name_pl": "Ptak Jasnowidzenia",
+    "name_en": "Bird of Perception",
+    "category": "Minor",
+    "slot": "Różności",
+    "effect": "+5% do umiejętności Sokoli Wzrok.",
+    "icon": "images/trinkets/birdofperception.jpg",
+    "components": []
+  },
+  {
+    "id": "bird_of_luck",
+    "name_pl": "Ptak Szczęścia",
+    "name_en": "Bird of Luck",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do szczęścia.",
+    "icon": "images/trinkets/birdofluck.jpg",
+    "components": []
+  },
+  {
+    "id": "bowstring_of_the_unicorns_mane",
+    "name_pl": "Cięciwa z Grzywy Jednorożca",
+    "name_en": "Bowstring of the Unicorn's Mane",
+    "category": "Minor",
+    "slot": "Różności",
+    "effect": "+10% do umiejętności Łucznictwo.",
+    "icon": "images/trinkets/bowstring.jpg",
+    "components": []
+  },
+  {
+    "id": "cart_of_wood",
+    "name_pl": "Samonapełniający się Wóz Drewna",
+    "name_en": "Cart of Wood",
+    "category": "Minor",
+    "slot": "Różności",
+    "effect": "Generuje 1 drewno dziennie.",
+    "icon": "images/trinkets/cartofwood.jpg",
+    "components": []
+  },
+  {
+    "id": "charm_of_mana",
+    "name_pl": "Magiczny Znak",
+    "name_en": "Charm of Mana",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "Regeneruje dodatkowy 1 punkt many dziennie.",
+    "icon": "images/trinkets/charmofmana.jpg",
+    "components": []
+  },
+  {
+    "id": "crest_of_valor",
+    "name_pl": "Herb Męstwa",
+    "name_en": "Crest of Valor",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do morale.",
+    "icon": "images/trinkets/crestofvalor.jpg",
+    "components": []
+  },
+  {
+    "id": "demon_horse_shoe",
+    "name_pl": "Podkowa Demona",
+    "name_en": "Demon Horse Shoe",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do szczęścia.",
+    "icon": "images/trinkets/demonshorseshoe.png",
+    "components": []
+  },
+  {
+    "id": "earth_tome",
+    "name_pl": "Księga Magii Ziemi",
+    "name_en": "Earth Tome",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Dodaje do księgi zaklęć wszystkie zaklęcia magii ziemi.",
+    "icon": "images/trinkets/earthtome.jpg",
+    "components": []
+  },
+  {
+    "id": "elven_bow",
+    "name_pl": "Elficki Łuk z Drzewa Wiśni",
+    "name_en": "Elven Bow",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+5% do umiejętności Łucznictwo.",
+    "icon": "images/trinkets/elvenbow.jpg",
+    "components": []
+  },
+  {
+    "id": "emblem_of_cognizance",
+    "name_pl": "Emblemat Wiedzy",
+    "name_en": "Emblem of Cognizance",
+    "category": "Minor",
+    "slot": "Różności",
+    "effect": "+15% do umiejętności Sokoli Wzrok.",
+    "icon": "images/trinkets/emblemofcognize.jpg",
+    "components": []
+  },
+  {
+    "id": "fire_tome",
+    "name_pl": "Księga Magii Ognia",
+    "name_en": "Fire Tome",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Dodaje do księgi zaklęć wszystkie zaklęcia magii ognia.",
+    "icon": "images/trinkets/firetome.jpg",
+    "components": []
+  },
+  {
+    "id": "four_leaf_clover",
+    "name_pl": "Czterolistna Koniczyna",
+    "name_en": "Four Leaf Clover",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do szczęścia.",
+    "icon": "images/trinkets/fourleafclover.jpg",
+    "components": []
+  },
+  {
+    "id": "golden_bow",
+    "name_pl": "Złoty Łuk",
+    "name_en": "Golden Bow",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "Strzelcy ignorują przeszkody i kary za dystans.",
+    "icon": "images/trinkets/goldenbow.jpg",
+    "components": []
+  },
+  {
+    "id": "endless_bag_of_gold",
+    "name_pl": "Bezdenny Mieszek Złota",
+    "name_en": "Endless Bag of Gold",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "Generuje 500 sztuk złota dziennie.",
+    "icon": "images/trinkets/goldbag.jpg",
+    "components": []
+  },
+  {
+    "id": "endless_purse_of_gold",
+    "name_pl": "Bezdenna Sakiewka Złota",
+    "name_en": "Endless Purse of Gold",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "Generuje 750 sztuk złota dziennie.",
+    "icon": "images/trinkets/goldpurse.jpg",
+    "components": []
+  },
+  {
+    "id": "endless_sack_of_gold",
+    "name_pl": "Bezdenny Worek Złota",
+    "name_en": "Endless Sack of Gold",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Generuje 1000 sztuk złota dziennie.",
+    "icon": "images/trinkets/goldsack.jpg",
+    "components": []
+  },
+  {
+    "id": "hideous_mask",
+    "name_pl": "Odrażająca Maska",
+    "name_en": "Hideous Mask",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "Neutralne stworzenia nigdy nie dołączą do bohatera.",
+    "icon": "images/trinkets/hideousmask.png",
+    "components": []
+  },
+  {
+    "id": "horn_of_the_abyss",
+    "name_pl": "Róg Otchłani",
+    "name_en": "Horn of the Abyss",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Po każdej bitwie przyzywa do armii Fangarmy.",
+    "icon": "images/trinkets/hornoftheabyss.png",
+    "components": []
+  },
+  {
+    "id": "hourglass_of_the_evil_hour",
+    "name_pl": "Klepsydra Diabelskiej Godziny",
+    "name_en": "Hourglass of the Evil Hour",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "Niweluje wszystkie premie do szczęścia obu stron.",
+    "icon": "images/trinkets/hourglassevilhour.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_fire",
+    "name_pl": "Kula Płonącego Ognia",
+    "name_en": "Orb of Fire",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "+50% obrażeń zaklęć magii ognia.",
+    "icon": "images/trinkets/orboffire.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_air",
+    "name_pl": "Kula Firmamentów",
+    "name_en": "Orb of Air",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "+50% obrażeń zaklęć magii powietrza.",
+    "icon": "images/trinkets/orboffirmament.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_inhibition",
+    "name_pl": "Kula Przeciwstawienia",
+    "name_en": "Orb of Inhibition",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Uniemożliwia rzucanie zaklęć podczas bitwy.",
+    "icon": "images/trinkets/orbofinhibition.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_mana",
+    "name_pl": "Magiczna Kula Many",
+    "name_en": "Orb of Mana",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "Regeneruje dodatkowe 3 punkty many dziennie.",
+    "icon": "images/trinkets/orbofmana.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_silt",
+    "name_pl": "Kula Żywiołu Ziemi",
+    "name_en": "Orb of Silt",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "+50% obrażeń zaklęć magii ziemi.",
+    "icon": "images/trinkets/orbofsilt.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_tempestuous_fire",
+    "name_pl": "Kula Sztormów",
+    "name_en": "Orb of Tempestuous Fire",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "+50% obrażeń zaklęć magii wody.",
+    "icon": "images/trinkets/orbofwater.jpg",
+    "components": []
+  },
+  {
+    "id": "orb_of_vulnerability",
+    "name_pl": "Kula Osłabienia",
+    "name_en": "Orb of Vulnerability",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Jednostki odporne na magię tracą odporność.",
+    "icon": "images/trinkets/orbofweakness.jpg",
+    "components": []
+  },
+  {
+    "id": "shackles_of_war",
+    "name_pl": "Kajdany Wojny",
+    "name_en": "Shackles of War",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "Uniemożliwiają ucieczkę i poddanie się obu bohaterom.",
+    "icon": "images/trinkets/shacklesofwar.jpg",
+    "components": []
+  },
+  {
+    "id": "speculum",
+    "name_pl": "Luneta",
+    "name_en": "Speculum",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do zasięgu widzenia na mapie przygody.",
+    "icon": "images/trinkets/speculum.jpg",
+    "components": []
+  },
+  {
+    "id": "spirit_of_oppression",
+    "name_pl": "Duch Opresji",
+    "name_en": "Spirit of Oppression",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "Niweluje wszystkie premie do morale obu stron.",
+    "icon": "images/trinkets/spiritofopression.jpg",
+    "components": []
+  },
+  {
+    "id": "stoic_watchman",
+    "name_pl": "Stoicki Obserwator",
+    "name_en": "Stoic Watchman",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+10% do umiejętności Sokoli Wzrok.",
+    "icon": "images/trinkets/stoicwatchmen.jpg",
+    "components": []
+  },
+  {
+    "id": "talisman_of_mana",
+    "name_pl": "Talizman Many",
+    "name_en": "Talisman of Mana",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "Regeneruje dodatkowe 2 punkty many dziennie.",
+    "icon": "images/trinkets/talismanofmana.jpg",
+    "components": []
+  },
+  {
+    "id": "tarot_cards",
+    "name_pl": "Karty Tarota",
+    "name_en": "Tarot Cards",
+    "category": "Treasure",
+    "slot": "Różności",
+    "effect": "+1 do szczęścia.",
+    "icon": "images/trinkets/tarot.jpg",
+    "components": []
+  },
+  {
+    "id": "vial_of_dragon_blood",
+    "name_pl": "Fiolka Smoczej Krwi",
+    "name_en": "Vial of Dragon Blood",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Wszystkie smoki otrzymują +5 Ataku i +5 Obrony.",
+    "icon": "images/trinkets/vialofdragonblood.jpg",
+    "components": []
+  },
+  {
+    "id": "vial_of_lifeblood",
+    "name_pl": "Fiolka Żywej Krwi",
+    "name_en": "Vial of Lifeblood",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "Wszystkie jednostki otrzymują +2 PŻ.",
+    "icon": "images/trinkets/vialoflifeblood.jpg",
+    "components": []
+  },
+  {
+    "id": "vial_of_mercury",
+    "name_pl": "Bezdenny Tygiel Rtęci",
+    "name_en": "Vial of Mercury",
+    "category": "Major",
+    "slot": "Różności",
+    "effect": "Generuje 1 rtęć dziennie.",
+    "icon": "images/trinkets/vialofmercury.jpg",
+    "components": []
+  },
+  {
+    "id": "water_tome",
+    "name_pl": "Księga Magii Wody",
+    "name_en": "Water Tome",
+    "category": "Relic",
+    "slot": "Różności",
+    "effect": "Dodaje do księgi zaklęć wszystkie zaklęcia magii wody.",
+    "icon": "images/trinkets/watertome.jpg",
+    "components": []
   }
 ]

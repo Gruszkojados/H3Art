@@ -185,4 +185,26 @@ document.getElementById("iconViewBtn")
         filterArtifacts();
     });
 
+document.addEventListener("mouseover", e => {
+
+    const tile = e.target.closest(".icon-tile");
+
+    if (!tile) return;
+
+    const tooltip = tile.querySelector(".tooltip");
+
+    if (!tooltip) return;
+
+    tooltip.style.left = "70px";
+    tooltip.style.right = "auto";
+
+    const rect = tooltip.getBoundingClientRect();
+
+    if (rect.right > window.innerWidth) {
+
+        tooltip.style.left = "auto";
+        tooltip.style.right = "70px";
+    }
+});
+
 load();
